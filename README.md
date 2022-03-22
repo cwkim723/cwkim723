@@ -1,8 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=CHAEWON KIM 👋&fontSize=90)
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cwkim723)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://turtledeveloper.tistory.com/)  
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=CHAEWONKIM👋&fontSize=90)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwkim723)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -14,5 +12,8 @@
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcwkim723&count_bg=%23F1D2D2&title_bg=%23DD9393&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-</div
+ 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cwkim723)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://turtledeveloper.tistory.com/)  
+  
+</div>
 
