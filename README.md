@@ -1,6 +1,6 @@
 <div align="center">
 
-### CHAEWON KIM 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=CHAEWON KIM 👋&fontSize=90)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cwkim723)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://turtledeveloper.tistory.com/)  
 
