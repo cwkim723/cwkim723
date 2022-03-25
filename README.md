@@ -1,8 +1,8 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=CHAEWONKIM👋&fontSize=90)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwkim723)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwkim723)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cwkim723&show_icons=true)  
 
